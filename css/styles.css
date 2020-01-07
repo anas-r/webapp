@@ -1,0 +1,60 @@
+tr {
+  text-align: center;
+  color: #182848;
+  font-size: large;
+  font-style: normal;
+  font-family: sans-serif;
+}
+
+th {
+  color: #182848;
+}
+
+button {
+  background-color: rgb(30, 88, 110);
+  /* Green */
+  border: none;
+  color: white;
+  padding: 9px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  font-family: sans-serif;
+
+  border-radius: 4px;
+
+}
+
+input {
+  padding: 5px 20px;
+  text-align: center;
+  font-size: 15px;
+  font-family: sans-serif;
+
+
+}
+
+table,
+th,
+td {
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  border-collapse: collapse;
+  border: none;
+  padding: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+td:hover{
+  background-color: #e3ffe7
+}
+
+table {
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  box-shadow: 0px 3px 15px 1px #adadad;
+  border-radius: 4px;
+}
